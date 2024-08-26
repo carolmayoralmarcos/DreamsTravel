@@ -1,0 +1,12 @@
+/server/node_modules
+/client/node_modules
+/client/README.md
+/client/.pnp
+/client/.gitignore
+/client/.pnp.js
+ 
+# testing
+/client/coverage
+ 
+# production
+/client/build
